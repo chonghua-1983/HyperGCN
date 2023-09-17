@@ -10,3 +10,4 @@ run_osmFISH_bayesSpace.R: An illustrate example for implementing BayesSpace algo
 run_osmFISH_SEDR.py: An illustrate example for implementing SEDR algorithm on osmFISH data.</br>
 run_osmFISH_spaceflow.R: An illustrate example for implementing SpaceFlow algorithm on osmFISH data.</br>
 run_osmFISH_SparGCN.R: An illustrate example for implementing SparGCN algorithm on osmFISH data.</br>
+demo_osmFISH_hyGCN.py: An example for implementing HyperGCN on osmFISH data.
