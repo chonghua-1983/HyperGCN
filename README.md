@@ -5,7 +5,9 @@ This is an implement of HyperGCN on spatial transcriptomics data. Running enviro
 
 hpLapGCN.py: The proposed HyperGCN modles </br>
 hpLap_model.py: Network models setting </br>
-utils_DSSC.py: Some external functions used in this work </br>
+construct_Hypergraphs_knn2.m: Hypergraph construction </br>
+demo_hypergraph_coumptation.m: An example on Stereo-seq data to demonstrate how to compute hypergraph. </br>
+utils_DSSC.py: Some external functions used in this work. </br>
 run_osmFISH_bayesSpace.R: An illustrate example for implementing BayesSpace algorithm on osmFISH data.</br>
 run_osmFISH_SEDR.py: An illustrate example for implementing SEDR algorithm on osmFISH data.</br>
 run_osmFISH_spaceflow.R: An illustrate example for implementing SpaceFlow algorithm on osmFISH data.</br>
