@@ -14,4 +14,5 @@ run_osmFISH_spaceflow.R: An illustrate example for implementing SpaceFlow algori
 run_osmFISH_SparGCN.R: An illustrate example for implementing SparGCN algorithm on osmFISH data.</br>
 demo_osmFISH_hyGCN.py: An example for implementing HyperGCN on osmFISH data.
 
-Cite:
+Cite: </br>
+Yuanyuan Ma, Yongbiao Zhao. HyperGCN: An Effective Deep Representation Learning Framework for the Integrative Analysis of Spatial Transcriptomics Data. 2023
